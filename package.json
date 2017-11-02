@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "git test for bootstrap project at coursera",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"hello\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antrandepaul/git-test.git"
+  },
+  "author": "An Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antrandepaul/git-test/issues"
+  },
+  "homepage": "https://github.com/antrandepaul/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
